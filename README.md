@@ -1,6 +1,6 @@
 # Finary Desktop: An Unofficial Desktop Application
 
-![Finary Desktop Logo](https://raw.githubusercontent.com/Velka-DEV/finary-desktop/1cbbac09bc54586beeddec5c8031fb156baf0ae0/src-tauri/icons/256x256.png)
+![Finary Logo](https://i.ibb.co/m5QpcXW/Logo-Finary-Gold-1.png)
 
 [![Build Status](https://github.com/Velka-DEV/finary-desktop/actions/workflows/publish.yaml/badge.svg)](https://github.com/Velka-DEV/finary-desktop/actions/workflows/publish.yaml)
 
