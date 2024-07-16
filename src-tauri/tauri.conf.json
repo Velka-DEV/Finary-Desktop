@@ -1,0 +1,46 @@
+{
+  "productName": "Finary Desktop",
+  "version": "0.0.1",
+  "identifier": "dev.velka.finary-desktop-unofficial",
+  "build": {
+    "frontendDist": "https://app.finary.com/v2",
+    "devUrl": "https://app.finary.com/v2"
+  },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "title": "Finary | Investir et suivre vos investissements",
+        "width": 1250,
+        "height": 780
+      }
+    ],
+    "security": {
+      "csp": {
+        "default-src": "'self'",
+        "script-src": ["'self'", "https://app.finary.com"],
+        "style-src": ["'self'", "'unsafe-inline'"],
+        "img-src": ["'self'", "data:", "https://app.finary.com"],
+        "connect-src": ["'self'", "https://app.finary.com"],
+        "font-src": ["'self'", "https://app.finary.com"],
+        "frame-src": "'self'",
+        "object-src": "'none'",
+        "base-uri": "'self'",
+        "form-action": "'self'",
+        "frame-ancestors": "'none'"
+      }
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": "all",
+    "icon": [
+      "icons/512x512.png",
+      "icons/256x256.png",
+      "icons/128x128.png",
+      "icons/64x64.png",
+      "icons/32x32.png",
+      "icons/16x16.png"
+    ]
+  }
+}
