@@ -1,6 +1,6 @@
 [package]
 name = "finary-desktop-unofficial"
-version = "0.0.1"
+version = "1.0.0"
 description = "An unofficial desktop app for Finary"
 authors = ["you"]
 edition = "2021"
