@@ -1,5 +1,7 @@
 # Finary Desktop: An Unofficial Desktop Application
 
+![Finary Desktop Logo](https://raw.githubusercontent.com/Velka-DEV/finary-desktop/1cbbac09bc54586beeddec5c8031fb156baf0ae0/src-tauri/icons/256x256.png)
+
 [![Build Status](https://github.com/Velka-DEV/finary-desktop/actions/workflows/publish.yaml/badge.svg)](https://github.com/Velka-DEV/finary-desktop/actions/workflows/publish.yaml)
 
 Finary Desktop is an unofficial desktop client for Finary, built using Tauri. It encapsulates the web application within a lightweight and secure native wrapper, offering enhanced performance and a dedicated desktop experience.
@@ -24,7 +26,7 @@ After installation, launch Finary Desktop from your applications folder or start
 
 ## Screenshots
 
-![Finary Desktop Screenshot](path/to/screenshot.png)
+![Finary Desktop Screenshot](https://i.ibb.co/DYDMYh2/Screenshot-2024-07-17-at-00-46-39.png)
 
 ## To-Do
 
