@@ -31,9 +31,9 @@ To install Finary Desktop, follow these steps:
 > [!CAUTION]
 > The binaries are currently unsigned, so you may need to bypass security warnings to install the application.
 >
-> On Windows, you can do this by clicking "More Info" and then "Run Anyway" when prompted by SmartScreen.
+> - On **Windows**, you can do this by clicking "More Info" and then "Run Anyway" when prompted by SmartScreen.
 >
-> On macOS, after installation, run the following command in the terminal to trust the application:
+> - On **macOS**, after installation, run the following command in the terminal to trust the application:
 >
 > `xattr -d com.apple.quarantine /Applications/Finary\ Desktop.app/`
 >
@@ -50,6 +50,8 @@ After installation, launch Finary Desktop from your applications folder or start
 ## To-Do
 
 - [ ] Add support for protecting the application with a PIN or biometric authentication.
+- [ ] Implement notifications for price alerts and other important events.
+- [ ] Create widgets for the desktop to display portfolio information.
 
 ## Contributing
 
