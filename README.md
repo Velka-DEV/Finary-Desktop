@@ -28,6 +28,17 @@ To install Finary Desktop, follow these steps:
 2. Unzip the downloaded file.
 3. Run the installer and follow the on-screen instructions.
 
+> [!CAUTION]
+> The binaries are currently unsigned, so you may need to bypass security warnings to install the application.
+>
+> On Windows, you can do this by clicking "More Info" and then "Run Anyway" when prompted by SmartScreen.
+>
+> On macOS, after installation, run the following command in the terminal to trust the application:
+>
+> `xattr -d com.apple.quarantine /Applications/Finary\ Desktop.app/`
+>
+> You should be able to run the application without any issues by right-clicking and selecting "Open" from the application folder.
+
 ## Usage
 
 After installation, launch Finary Desktop from your applications folder or start menu. Log in with your Finary credentials, and you will have access to all features available on the web platform directly from your desktop.
