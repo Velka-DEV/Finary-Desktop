@@ -2,7 +2,7 @@
 name = "finary-desktop-unofficial"
 version = "1.0.1"
 description = "An unofficial desktop app for Finary"
-authors = ["you"]
+authors = ["Velka"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
