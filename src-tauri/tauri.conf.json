@@ -1,6 +1,6 @@
 {
   "productName": "Finary Desktop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "identifier": "dev.velka.finary-desktop-unofficial",
   "build": {
     "frontendDist": "https://app.finary.com/v2",
